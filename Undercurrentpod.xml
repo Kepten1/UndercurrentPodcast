@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>UnderCurrent</title>
+    <link>http://www.molandfrechfries.no</link>
+    <description>UnderCurrent dives into today’s most buzz-worthy topics, blending humor and insight to offer fresh perspectives. Each episode tackles current events in a way that keeps you entertained and intrigued. Join us for conversations that keep you in the know and laughing along the way!</description>
+    <language>en-us</language>
+    <itunes:owner>
+      <itunes:name>Yohnny Flexx</itunes:name>
+      <itunes:email>kepten1@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://static.wixstatic.com/media/f9f256_a4ec3e8eb6bb45c99b55431279fd037f~mv2.png" />
+    <itunes:category text="Comedy" />
+    
+    <!-- Episode Details -->
+    <item>
+      <title>Ep. 1 - P. Diddy Controversy</title>
+      <description>In this episode of UnderCurrent, we take a look at the latest P. Diddy controversy, unpacking the story with our unique blend of humor and depth. Tune in to see what’s really happening behind the headlines.</description>
+      <pubDate>Wed, 04 Nov 2024 12:00:00 GMT</pubDate>
+      <itunes:duration>00:33:29</itunes:duration>
+      <enclosure url="https://static.wixstatic.com/mp3/f9f256_f7ddb87ccdb4481fa283ed0fad7591d7.m4a" length="48.6MB" type="audio/x-m4a" />
+      <guid>https://static.wixstatic.com/mp3/f9f256_f7ddb87ccdb4481fa283ed0fad7591d7.m4a</guid>
+    </item>
+
+  </channel>
+</rss>
