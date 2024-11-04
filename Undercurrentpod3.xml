@@ -5,13 +5,20 @@
     <link>http://www.molandfrechfries.no</link>
     <description>UnderCurrent dives into today’s most buzz-worthy topics, blending humor and insight to offer fresh perspectives. Each episode tackles current events in a way that keeps you entertained and intrigued. Join us for conversations that keep you in the know and laughing along the way!</description>
     <language>en-us</language>
+
+    <!-- Author Information -->
+    <itunes:author>Yohnny Flexx</itunes:author>
     <itunes:owner>
       <itunes:name>Yohnny Flexx</itunes:name>
       <itunes:email>kepten1@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://static.wixstatic.com/media/f9f256_e8f8a425b5e849eabe56eeb308633244~mv2.png" />
-    <itunes:category text="Comedy" />
+
+    <!-- Cover Art -->
+    <itunes:image href="https://static.wixstatic.com/media/f9f256_a4ec3e8eb6bb45c99b55431279fd037f~mv2.png" />
     
+    <!-- Category -->
+    <itunes:category text="Comedy" />
+
     <!-- Episode Details -->
     <item>
       <title>Ep. 1 - P. Diddy Controversy</title>
