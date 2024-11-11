@@ -32,11 +32,21 @@
 <item>
       <title>Ep. 2 - Trapped in Greece</title>
       <description>In this episode of UnderCurrent, we explore what it’s like to get stuck in Greece due to bureaucracy, along with a complex guide to Greek culture and its unique cultural quirks.</description>
-      <pubDate>Mon, 06 Nov 2024 12:00:00 GMT</pubDate>
+      <pubDate>Mon, 08 Nov 2024 12:00:00 GMT</pubDate>
       <itunes:duration>01:01:19</itunes:duration>
-      <enclosure url="https://static.wixstatic.com/mp3/f9f256_6d98fd044ebf4594a7dc79c6a1939150.m4a" length="50928768" type="audio/x-m4a" />
+      <enclosure url="https://static.wixstatic.com/mp3/f9f256_6d98fd044ebf4594a7dc79c6a1939150.m4a" length="31457280" type="audio/x-m4a" />
       <guid>https://static.wixstatic.com/mp3/f9f256_6d98fd044ebf4594a7dc79c6a1939150.m4a</guid>
 </item>
+
+<item>
+      <title>Ep. 3 - Squirrel Killers!</title>
+      <description>In this episode of UnderCurrent, we dive into the controversial case surrounding Peanut the Squirrel, exploring the cultural impact and consequences of the state's decision.</description>
+      <pubDate>Mon, 11 Nov 2024 14:32:27 GMT</pubDate>
+      <itunes:duration>00:14:49</itunes:duration>
+      <enclosure url="https://static.wixstatic.com/mp3/f9f256_6c8c78453a044ed9a8469b256a419712.m4a" length="28417817" type="audio/x-m4a" />
+      <guid>https://static.wixstatic.com/mp3/f9f256_6c8c78453a044ed9a8469b256a419712.m4a</guid>
+</item>
+
 
   </channel>
 </rss>
