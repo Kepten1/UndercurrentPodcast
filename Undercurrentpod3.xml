@@ -6,6 +6,9 @@
     <description>UnderCurrent dives into today’s most buzz-worthy topics, blending humor and insight to offer fresh perspectives. Each episode tackles current events in a way that keeps you entertained and intrigued. Join us for conversations that keep you in the know and laughing along the way!</description>
     <language>en-us</language>
 
+    <!-- Add this line to redirect your feed -->
+    <itunes:new-feed-url>https://anchor.fm/s/fec88d8c/podcast/rss</itunes:new-feed-url>
+
     <!-- Author Information -->
     <itunes:author>GoGecko Studios</itunes:author>
     <itunes:owner>
@@ -29,34 +32,34 @@
       <guid>https://static.wixstatic.com/mp3/f9f256_f7ddb87ccdb4481fa283ed0fad7591d7.m4a</guid>
     </item>
 
-<item>
+    <item>
       <title>Ep. 2 - Trapped in Greece</title>
       <description>In this episode of UnderCurrent, we explore what it’s like to get stuck in Greece due to bureaucracy, along with a complex guide to Greek culture and its unique cultural quirks.</description>
       <pubDate>Mon, 08 Nov 2024 12:00:00 GMT</pubDate>
       <itunes:duration>01:01:19</itunes:duration>
       <enclosure url="https://static.wixstatic.com/mp3/f9f256_6d98fd044ebf4594a7dc79c6a1939150.m4a" length="31457280" type="audio/x-m4a" />
       <guid>https://static.wixstatic.com/mp3/f9f256_6d98fd044ebf4594a7dc79c6a1939150.m4a</guid>
-</item>
+    </item>
 
-<item>
+    <item>
       <title>Ep. 3 - Squirrel Killers!</title>
       <description>In this episode of UnderCurrent, we dive into the controversial case surrounding Peanut the Squirrel, exploring the cultural impact and consequences of the state's decision.</description>
       <pubDate>Mon, 11 Nov 2024 14:32:27 GMT</pubDate>
       <itunes:duration>00:14:49</itunes:duration>
       <enclosure url="https://static.wixstatic.com/mp3/f9f256_6c8c78453a044ed9a8469b256a419712.m4a" length="28417817" type="audio/x-m4a" />
       <guid>https://static.wixstatic.com/mp3/f9f256_6c8c78453a044ed9a8469b256a419712.m4a</guid>
-</item>
+    </item>
 
-<item>
+    <item>
       <title>Ep. 4 - Get Rich on Snapchat - Over 20,000 USD a Month</title>
       <description>In this episode of UnderCurrent, we explore the fascinating story of a young Norwegian influencer making over 20,000 euros a month by posting 100 snaps a day. Is this lifestyle healthy? What are the challenges? Join us as we dive into the wild world of Snapchat influencers, examining the ups and downs and how to make a fortune sharing your "snap story."</description>
       <pubDate>Mon, 20 Nov 2024 12:00:00 GMT</pubDate>
       <itunes:duration>00:35:12</itunes:duration>
       <enclosure url="https://static.wixstatic.com/mp3/f9f256_ba9797e866274fc681c4b358dc7ee0ae.m4a" length="35861248" type="audio/x-m4a" />
       <guid>https://static.wixstatic.com/mp3/f9f256_ba9797e866274fc681c4b358dc7ee0ae.m4a</guid>
-</item>
+    </item>
 
-<item>
+    <item>
       <title>Ep. 5 - The UFO Phenomenon: What the Pentagon Isn’t Telling Us</title>
       <link>https://www.molandfrechfries.no</link>
       <description>In this episode of UnderCurrent, we uncover the mysteries surrounding UFO sightings and recent revelations from the Pentagon. What are they hiding, and what could it mean for the future of humanity? Join us as we explore the fascinating and often controversial world of unidentified flying objects.</description>
@@ -64,9 +67,6 @@
       <itunes:duration>00:21:03</itunes:duration>
       <enclosure url="https://static.wixstatic.com/mp3/f9f256_3f3ade995b3c4fb8be732a7eeaa71fd6.m4a" length="32086425" type="audio/x-m4a" />
       <guid>https://static.wixstatic.com/mp3/f9f256_816a19c97e6e4b83a5af1a012bc4947e.m4a</guid>
-</item>
-
-
-
+    </item>
   </channel>
 </rss>
